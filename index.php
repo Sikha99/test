@@ -200,7 +200,7 @@
 
   <h3 style="color:#9a1115" align=center><b><u>Blood Donor's Registration Form</u></b></h3>
 
-  <form method>
+  <form method="post" action="registration.php">
     <div id="reg_form">
     <table>
       <tr><br></tr>
